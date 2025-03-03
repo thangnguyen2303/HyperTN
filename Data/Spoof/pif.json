@@ -1,1 +1,16 @@
-
+{
+  "VERSION": "20250303",
+  "TYPE": "user",
+  "TAGS": "release-keys",
+  "ID": "BP22.250124.009",
+  "BRAND": "google",
+  "DEVICE": "tokay",
+  "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP22.250124.009/13034193:user/release-keys",
+  "MANUFACTURER": "Google",
+  "MODEL": "Pixel 9",
+  "PRODUCT": "tokay_beta",
+  "RELEASE": "Baklava",
+  "SECURITY_PATCH": "2025-02-05",
+  "DEVICE_INITIAL_SDK_INT": 21,
+  "DEBUG": false
+}
