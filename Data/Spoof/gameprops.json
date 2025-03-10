@@ -2,7 +2,6 @@
     "PACKAGES_VERSIONS_DEVICE": {
         "VERSION":"20250310",
     },
-    
     "PACKAGES_VERSION": [
         "com.tn.gameprops"
     ],
