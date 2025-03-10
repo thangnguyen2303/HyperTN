@@ -1,4 +1,10 @@
 {
+    "PACKAGES_VERSIONS_DEVICE": {
+        "VERSION":"20250310",
+    },
+    "PACKAGES_VERSION": [
+        "com.tn.gameprops"
+    ],
     "PACKAGES_M11":[
         "com.mobilelegends.mi",
         "com.supercell.brawlstars",
