@@ -1,145 +1,141 @@
 {
-    "PACKAGES_VERSION_DEVICE": {
-        "VERSION":"20250310"
-    },
-    "PACKAGES_VERSION": [
-        "com.tn.gameprops"
-    ],
-    "PACKAGES_M11":[
-        "com.mobilelegends.mi",
-        "com.supercell.brawlstars",
-        "com.blizzard.diablo.immortal",
-        "com.netease.newspike",
-        "com.activision.callofduty.warzone",
-        "com.pubg.newstate",
-        "com.gamedevltd.destinywarfare",
-        "com.pikpok.dr2.play",
-        "com.CarXTech.highWay",
-        "com.nekki.shadowfight3",
-        "com.nekki.shadowfightarena",
-        "com.gameloft.android.ANMP.GloftA8HM",
-        "com.nekki.shadowfight",
-        "com.ea.game.nfs14_row",
-        "com.ea.games.r3_row",
-        "com.supercell.squad",
-        "com.blitzteam.battleprime"
-    ],
-    "PACKAGES_M11_DEVICE": {
-        "BRAND":"",
-        "DEVICE":"",
-        "MANUFACTURER":"ZTE",
-        "MODEL":"NX769J"
-    },
-    "PACKAGES_BS4": [
-        "com.proximabeta.mf.uamo"
-    ],
-    "PACKAGES_BS4_DEVICE": {
-        "BRAND": "Black Shark",
-        "DEVICE": "Black Shark 4",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "2SM-X706B"
-    },
-    "PACKAGES_MI11TP": [
-        "com.ea.gp.apexlegendsmobilefps",
-        "com.levelinfinite.hotta.gp",
-        "com.supercell.clashofclans",
-        "com.vng.mlbbvn"
-    ],
-    "PACKAGES_MI11TP_DEVICE": {
-        "BRAND": "Xiaomi",
-        "DEVICE": "Mi 11T PRO",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "2107113SI"
-    },
-    "PACKAGES_MI13P": [
-        "com.levelinfinite.sgameGlobal",
-        "com.tencent.tmgp.sgame"
-    ],
-    "PACKAGES_MI13P_DEVICE": {
-        "BRAND": "Xiaomi",
-        "DEVICE": "Mi 13 PRO",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "2210132C"
-    },
-    "PACKAGES_OP8P": [
-        "com.netease.lztgglobal",
-        "com.riotgames.league.wildrift",
-        "com.riotgames.league.wildrifttw",
-        "com.riotgames.league.wildriftvn"
-    ],
-    "PACKAGES_OP8P_DEVICE": {
-        "BRAND": "OnePlus",
-        "DEVICE": "OnePlus 8 PRO",
-        "MANUFACTURER": "OnePlus",
-        "MODEL": "IN2020"
-    },
-    "PACKAGES_OP9P": [
-        "com.epicgames.fortnite",
-        "com.epicgames.portal",
-        "com.tencent.lolm"
-    ],
-    "PACKAGES_OP9P_DEVICE": {
-        "BRAND": "OnePlus",
-        "DEVICE": "OnePlus 9 PRO",
-        "MANUFACTURER": "OnePlus",
-        "MODEL": "LE2101"
-    },
-    "PACKAGES_F5": [
-        "com.mobile.legends"
-    ],
-    "PACKAGES_F5_DEVICE": {
-        "BRAND": "POCO",
-        "DEVICE": "POCO F5",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "23049PCD8G"
-    },
-    "PACKAGES_ROG": [
-        "com.dts.freefireth",
-        "com.dts.freefirethmax"
-    ],
-    "PACKAGES_ROG_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "ROG Phone",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_Z01QD"
-    },
-    "PACKAGES_ROG6": [
-        "com.activision.callofduty.shooter",
-        "com.ea.gp.fifamobile",
-        "com.gameloft.android.ANMP.GloftA9HM",
-        "com.madfingergames.legends",
-        "com.pearlabyss.blackdesertm",
-        "com.pearlabyss.blackdesertm.gl"
-    ],
-    "PACKAGES_ROG6_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "ROG Phone 6",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_AI2201"
-    },
-    "PACKAGES_ROG8P": [
-        "com.pubg.imobile",
-        "com.pubg.krmobile",
-        "com.rekoo.pubgm",
-        "com.tencent.ig",
-        "com.tencent.tmgp.pubgmhd",
-        "com.vng.pubgmobile"
-    ],
-    "PACKAGES_ROG8P_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "ROG Phone 8 Pro",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_AI2401_A"
-    },
-    "PACKAGES_XP5": [
-        "com.garena.game.codm",
-        "com.tencent.tmgp.kr.codm",
-        "com.vng.codmvn"
-    ],
-    "PACKAGES_XP5_DEVICE": {
-        "BRAND": "Sony",
-        "DEVICE": "Xperia 5",
-        "MANUFACTURER": "Sony",
-        "MODEL": "SO-52A"
-    }
+    "devices": [
+        {
+            "device": "M11",
+            "brand": "",
+            "manufacturer": "ZTE",
+            "model": "NX769J",
+            "packages": [
+                "com.mobilelegends.mi",
+                "com.supercell.brawlstars",
+                "com.blizzard.diablo.immortal",
+                "com.netease.newspike",
+                "com.activision.callofduty.warzone",
+                "com.pubg.newstate",
+                "com.gamedevltd.destinywarfare",
+                "com.pikpok.dr2.play",
+                "com.CarXTech.highWay",
+                "com.nekki.shadowfight3",
+                "com.nekki.shadowfightarena",
+                "com.gameloft.android.ANMP.GloftA8HM",
+                "com.nekki.shadowfight",
+                "com.ea.game.nfs14_row",
+                "com.ea.games.r3_row",
+                "com.supercell.squad",
+                "com.blitzteam.battleprime"
+            ]
+        },
+        {
+            "device": "Black Shark 4",
+            "brand": "Black Shark",
+            "manufacturer": "Xiaomi",
+            "model": "2SM-X706B",
+            "packages": [
+                "com.proximabeta.mf.uamo"
+            ]
+        },
+        {
+            "device": "Mi 11T PRO",
+            "brand": "Xiaomi",
+            "manufacturer": "Xiaomi",
+            "model": "2107113SI",
+            "packages": [
+                "com.ea.gp.apexlegendsmobilefps",
+                "com.levelinfinite.hotta.gp",
+                "com.supercell.clashofclans",
+                "com.vng.mlbbvn"
+            ]
+        },
+        {
+            "device": "Mi 13 PRO",
+            "brand": "Xiaomi",
+            "manufacturer": "Xiaomi",
+            "model": "2210132C",
+            "packages": [
+                "com.levelinfinite.sgameGlobal",
+                "com.tencent.tmgp.sgame"
+            ]
+        },
+        {
+            "device": "OnePlus 8 PRO",
+            "brand": "OnePlus",
+            "manufacturer": "OnePlus",
+            "model": "IN2020",
+            "packages": [
+                "com.netease.lztgglobal",
+                "com.riotgames.league.wildrift",
+                "com.riotgames.league.wildrifttw",
+                "com.riotgames.league.wildriftvn"
+            ]
+        },
+        {
+            "device": "OnePlus 9 PRO",
+            "brand": "OnePlus",
+            "manufacturer": "OnePlus",
+            "model": "LE2101",
+            "packages": [
+                "com.epicgames.fortnite",
+                "com.epicgames.portal",
+                "com.tencent.lolm"
+            ]
+        },
+        {
+            "device": "POCO F5",
+            "brand": "POCO",
+            "manufacturer": "Xiaomi",
+            "model": "23049PCD8G",
+            "packages": [
+                "com.mobile.legends"
+            ]
+        },
+        {
+            "device": "ROG Phone",
+            "brand": "Asus",
+            "manufacturer": "Asus",
+            "model": "ASUS_Z01QD",
+            "packages": [
+                "com.dts.freefireth",
+                "com.dts.freefirethmax"
+            ]
+        },
+        {
+            "device": "ROG Phone 6",
+            "brand": "Asus",
+            "manufacturer": "Asus",
+            "model": "ASUS_AI2201",
+            "packages": [
+                "com.activision.callofduty.shooter",
+                "com.ea.gp.fifamobile",
+                "com.gameloft.android.ANMP.GloftA9HM",
+                "com.madfingergames.legends",
+                "com.pearlabyss.blackdesertm",
+                "com.pearlabyss.blackdesertm.gl"
+            ]
+        },
+        {
+            "device": "ROG Phone 8 Pro",
+            "brand": "Asus",
+            "manufacturer": "Asus",
+            "model": "ASUS_AI2401_A",
+            "packages": [
+                "com.pubg.imobile",
+                "com.pubg.krmobile",
+                "com.rekoo.pubgm",
+                "com.tencent.ig",
+                "com.tencent.tmgp.pubgmhd",
+                "com.vng.pubgmobile"
+            ]
+        },
+        {
+            "device": "Xperia 5",
+            "brand": "Sony",
+            "manufacturer": "Sony",
+            "model": "SO-52A",
+            "packages": [
+                "com.garena.game.codm",
+                "com.tencent.tmgp.kr.codm",
+                "com.vng.codmvn"
+            ]
+        }
+    ]
 }
