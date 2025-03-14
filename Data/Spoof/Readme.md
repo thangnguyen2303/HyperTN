@@ -1,3 +1,4 @@
+## Giải thích:
 1. pif.json là cấu hình PIF để Fix Play Integrity nếu bạn cập nhật online qua TNToolbox.
 2. gameprops.json là cấu hình giả mạo các Trò chơi để mở khóa FPS, đồ họa nếu bạn cập nhật online qua TNToolbox.
 ## Hướng dẫn nếu bạn muốn sửa và cập nhật thủ công trong TNToolbox:
