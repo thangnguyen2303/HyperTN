@@ -5,4 +5,5 @@
 - Tải file mẫu phía trên về. (pif.json cho Cập nhật PIF, gameprops.json cho Cập nhật cấu hình giả mạo Trò chơi)
 - Sửa "VERSION":"2025..." thành "VERSION":"MANUAL"
 - Sửa các thông tin cấu hình giả mạo theo ý bạn, nhớ giữ nguyên cấu trúc như file có sẵn.
+- Lưu file.
 - Trong TNToolbox chọn Cập nhật cấu hình PIF/Giả mạo Trò chơi và chọn đến file đã lưu.
