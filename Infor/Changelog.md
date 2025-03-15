@@ -1,3 +1,28 @@
+## Phiên bản 2.8:
+
+
+## Phiên bản 2.7:
+
+- Fix lỗi giải nén rom khi không dùng 7zip. (All)
+  
+- Thêm ứng dụng "TN Toolbox" riêng để tùy chỉnh một số cài đặt riêng. (All)
+  
+- Cập nhập PIF trong ứng dụng "TN Toolbox", không cần cài apk PIF thủ công nữa. (All)
+  
+- Bật màn hình khoá động cho các thiết bị không hỗ trợ. (OS2)
+  
+- Thêm Phụ đề AI để phiên dịch, bật trên Trung tâm điều khiển. (All)
+  
+- Cập nhật launcher để fix một số lỗi. (OS2)
+  
+- Cập nhật Trình cắm UI hệ thống, fix lag khi vuốt xuống, thêm nhấn giữ đèn pin như iOS. (OS2)
+  
+- Fix lỗi mất thanh bên khi bật Chế độ nhà hát khi dùng Video. (All)
+
+- Fix lỗi không dùng CTS được trên một số thiết bị. (OS2)
+
+- Fix lỗi xoay ngang khi dùng Bảo mật. (Pad)
+  
 ## Phiên bản 2.6:
 
 - Hỗ trợ HyperOS 2.
