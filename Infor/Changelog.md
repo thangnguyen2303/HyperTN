@@ -1,9 +1,22 @@
 ## Phiên bản 2.8:
 
+- Cập nhật TNToolbox thêm một vài tính năng: Có thể cập nhập cấu hình giả mạo PIF, Trò chơi online hoặc thủ công bằng file json tự sửa; Mở các chế độ cài đặt bị ẩn (Siêu tối, Trợ lí thông báo...); Thiết lập Android cho khôi phục Google. (All)
+
+- Cập nhật Trình khởi chạy để sửa một số lỗi. (OS2)
+- 
+- Cập nhật Trình cắm UI hệ thống, fix lag khi vuốt xuống trong Trung tâm thông báo. (OS2)
+
+- Cập nhật sẵn Google để có thể dùng CTS ngay. (OS2)
+
+- Sửa lỗi mất hiệu ứng đóng mở trên Hyper A13. (Hyper A13)
+
+- Giữ lại tạp chí màn hình khóa. (All)
+
+- Sửa lỗi xoay ngang trong ứng dụng Thời tiết. (Pad)
 
 ## Phiên bản 2.7:
 
-- Fix lỗi giải nén rom khi không dùng 7zip. (All)
+- Sửa lỗi giải nén rom khi không dùng 7zip. (All)
   
 - Thêm ứng dụng "TN Toolbox" riêng để tùy chỉnh một số cài đặt riêng. (All)
   
@@ -17,11 +30,11 @@
   
 - Cập nhật Trình cắm UI hệ thống, fix lag khi vuốt xuống, thêm nhấn giữ đèn pin như iOS. (OS2)
   
-- Fix lỗi mất thanh bên khi bật Chế độ nhà hát khi dùng Video. (All)
+- Sửa lỗi mất thanh bên khi bật Chế độ nhà hát khi dùng Video. (All)
 
-- Fix lỗi không dùng CTS được trên một số thiết bị. (OS2)
+- Sửa lỗi không dùng CTS được trên một số thiết bị. (OS2)
 
-- Fix lỗi xoay ngang khi dùng Bảo mật. (Pad)
+- Sửa lỗi xoay ngang khi dùng Bảo mật. (Pad)
   
 ## Phiên bản 2.6:
 
