@@ -10,7 +10,7 @@
 
 - Mở khóa FPS tối đa cho Game Đấu Trường Chân Lý (TFT). (All)
 
-- Sửa lỗi mất hiệu ứng đóng mở trên Hyper A13. (Hyper A13)
+- Sửa lỗi mất hiệu ứng đóng mở ứng dụng trên Hyper A13. (Hyper A13)
 
 - Giữ lại tạp chí màn hình khóa. (All)
 
