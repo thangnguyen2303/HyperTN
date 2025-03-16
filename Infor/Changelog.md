@@ -14,7 +14,7 @@
 
 - Sửa lỗi mất hiệu ứng đóng mở ứng dụng trên Hyper A13. (Hyper A13)
 
-- Sửa lỗi hiển thị trong Lịch sử thông báo.
+- Sửa lỗi hiển thị trong Lịch sử thông báo. (All)
 
 - Sửa lỗi xoay ngang trong ứng dụng Thời tiết. (Pad)
 
