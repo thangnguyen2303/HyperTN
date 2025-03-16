@@ -4,6 +4,7 @@
 - Vui lòng điền chính xác số serial. (Chú ý không có bất kì khoảng trắng nào trước và sau nó)
 - Từ ngày 16/03/2025 mình sẽ duyệt đăng kí vào 22h00 hàng ngày.
 - Mỗi email (người dùng) chỉ được đăng kí tối đa 2 thiết bị.
+- Chỉ được đăng kí lại sau khi hết hạn.
 - Có thể kiểm tra hạn dùng bằng cách chạy TNFlash.exe trong file rom (có kết nối fastboot với điện thoại và PC).
 ## Hạn dùng:
 - Đối với trường hợp bạn chưa từng donate thì hạn sử dụng sẽ là 1 tháng.
