@@ -1,6 +1,6 @@
 ## Phiên bản 2.8:
 
-- Cập nhật TNToolbox thêm một vài tính năng: Có thể cập nhật cấu hình PIF có thể áp dụng ngay mà không cần khởi động lại; Có thể cập nhật cấu hình Trò chơi online hoặc thủ công bằng file json tự sửa; Mở các chế độ cài đặt bị ẩn (Siêu tối, Trợ lí thông báo...); Thiết lập Android cho khôi phục Google. (All)
+- Cập nhật TNToolbox thêm một vài tính năng: Cập nhật cấu hình PIF có thể áp dụng ngay mà không cần khởi động lại; Có thể cập nhật cấu hình Trò chơi online hoặc thủ công bằng file json tự sửa; Mở các chế độ cài đặt bị ẩn (Siêu tối, Trợ lí thông báo...); Thiết lập Android cho khôi phục Google. (All)
 
 - Cập nhật Trình khởi chạy để sửa một số lỗi. (OS2)
 
