@@ -15,5 +15,6 @@ HyperTN | MIUITN hoàn toàn miễn phí. Nếu bạn thấy hài lòng, có th�
 - Techcombank: 14025025164011 (NGUYEN VAN THANG)
 - Paypal: https://www.paypal.me/nvthang2303
 - "Send a Gift" in Telegram: https://t.me/Nvthang2303
+- Binance ID: 531233220
 
 Thanks for your donate.
