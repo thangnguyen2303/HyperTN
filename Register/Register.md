@@ -4,8 +4,8 @@
 - Vui lòng điền chính xác số serial. (Chú ý không có bất kì khoảng trắng nào trước và sau nó)
 - Từ ngày 16/03/2025, Đăng kí của bạn sẽ được duyệt vào 22h00 Thứ 4, Thứ 7 hàng tuần nếu hợp lệ. Mọi thắc mắc về việc đăng kí vui lòng liên hệ qua email: nvthang.07cs@gmail.com.
 - Mỗi email (người dùng) chỉ được đăng kí tối đa 2 thiết bị.
-- Chỉ được đăng kí lại sau khi hết hạn.
 - Có thể kiểm tra đăng kí được duyệt chưa bằng cách chạy TNFlash.exe trong file rom (có kết nối fastboot với điện thoại và PC).
+- Chỉ được đăng kí lại sau khi hết hạn. (Khi chạy tool nó báo Chưa đăng kí)
 ## Hạn dùng:
 - Đối với trường hợp bạn chưa donate thì quyền flash sẽ khả dụng trong 1 tháng.
 - Đối với trường hợp bạn có donate với bất kì số tiền nào thì quyền flash sẽ khả dụng trong là 1 năm.
