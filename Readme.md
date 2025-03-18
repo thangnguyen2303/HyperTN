@@ -19,5 +19,5 @@
 - [Channel](http://t.me/MiuiTNChannel)
 - [Group support](http://t.me/MiuiTNGroup)
 
-## Tất cả thông tin khác:
+### Tất cả thông tin khác:
 - [Tại đây](https://github.com/thangnguyen2303/HyperTN/tree/main/Infor) 
