@@ -2,7 +2,7 @@
 - Link đăng kí: https://forms.gle/3He5bJxzVUfUJwep8
 - Cách tìm số serial: Thiết bị của tôi - Tất cả thông số - Trạng thái - Kiểu; hoặc chạy tool TNFlash.exe trong ROM đã giải nén.
 - Vui lòng điền chính xác số serial. (Chú ý không có bất kì khoảng trắng nào trước và sau nó)
-- Từ ngày 16/03/2025, Đăng kí của bạn sẽ được duyệt vào 22h00 Thứ 4, Thứ 7 hàng tuần nếu hợp lệ. Mọi thắc mắc về việc đăng kí vui lòng liên hệ qua email: nvthang.07cs@gmail.com.
+- Từ ngày 16/03/2025, Đăng kí của bạn sẽ được duyệt vào 22h00 Thứ 4, Thứ 7 hàng tuần nếu hợp lệ. Các bạn sẽ nhận được mail thông báo khi được duyệt.
 - Mỗi email (người dùng) chỉ được đăng kí tối đa 2 thiết bị.
 - Có thể kiểm tra đăng kí được duyệt chưa bằng cách chạy TNFlash.exe trong file rom (có kết nối fastboot với điện thoại và PC).
 - Chỉ được đăng kí lại sau khi hết hạn. (Khi chạy tool nó báo Chưa đăng kí)
