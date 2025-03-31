@@ -1,4 +1,3 @@
-
 {
     "PACKAGES_VERSION_DEVICE": {
         "VERSION":"TN"
@@ -8,8 +7,6 @@
     ],
     "PACKAGES_M11":[
         "com.mobilelegends.mi",
-        "com.supercell.brawlstars",
-        "com.blizzard.diablo.immortal",
         "com.netease.newspike",
         "com.activision.callofduty.warzone",
         "com.pubg.newstate",
@@ -43,6 +40,7 @@
     "PACKAGES_MI11TP": [
         "com.ea.gp.apexlegendsmobilefps",
         "com.levelinfinite.hotta.gp",
+        "com.supercell.brawlstars",
         "com.supercell.clashofclans",
         "com.vng.mlbbvn"
     ],
@@ -86,7 +84,9 @@
         "MODEL": "LE2101"
     },
     "PACKAGES_F5": [
-        "com.mobile.legends"
+        "com.mobile.legends",
+        "com.dts.freefireth",
+        "com.dts.freefirethmax",
     ],
     "PACKAGES_F5_DEVICE": {
         "BRAND": "POCO",
@@ -94,18 +94,7 @@
         "MANUFACTURER": "Xiaomi",
         "MODEL": "23049PCD8G"
     },
-    "PACKAGES_ROG": [
-        "com.dts.freefireth",
-        "com.dts.freefirethmax"
-    ],
-    "PACKAGES_ROG_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "ROG Phone",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_Z01QD"
-    },
     "PACKAGES_ROG6": [
-        "com.activision.callofduty.shooter",
         "com.ea.gp.fifamobile",
         "com.gameloft.android.ANMP.GloftA9HM",
         "com.madfingergames.legends",
@@ -118,7 +107,8 @@
         "MANUFACTURER": "Asus",
         "MODEL": "ASUS_AI2201"
     },
-    "PACKAGES_ROG8P": [
+    "PACKAGES_S24U": [
+        "com.blizzard.diablo.immortal",
         "com.pubg.imobile",
         "com.pubg.krmobile",
         "com.rekoo.pubgm",
@@ -126,21 +116,22 @@
         "com.tencent.tmgp.pubgmhd",
         "com.vng.pubgmobile"
     ],
-    "PACKAGES_ROG8P_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "ROG Phone 8 Pro",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_AI2401_A"
+    "PACKAGES_S24U_DEVICE": {
+        "BRAND": "",
+        "DEVICE": "",
+        "MANUFACTURER": "samsung",
+        "MODEL": "SM-S928B"
     },
-    "PACKAGES_XP5": [
+    "PACKAGES_LenovoY700": [
+        "com.activision.callofduty.shooter",
         "com.garena.game.codm",
         "com.tencent.tmgp.kr.codm",
         "com.vng.codmvn"
     ],
-    "PACKAGES_XP5_DEVICE": {
-        "BRAND": "Sony",
-        "DEVICE": "Xperia 5",
-        "MANUFACTURER": "Sony",
-        "MODEL": "SO-52A"
+    "PACKAGES_LenovoY700_DEVICE": {
+        "BRAND": "",
+        "DEVICE": "",
+        "MANUFACTURER": "Lenovo TB-9707F",
+        "MODEL": "Lenovo"
     }
 }
