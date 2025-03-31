@@ -86,7 +86,7 @@
     "PACKAGES_F5": [
         "com.mobile.legends",
         "com.dts.freefireth",
-        "com.dts.freefirethmax",
+        "com.dts.freefirethmax"
     ],
     "PACKAGES_F5_DEVICE": {
         "BRAND": "POCO",
