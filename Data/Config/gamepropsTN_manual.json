@@ -83,16 +83,16 @@
         "MANUFACTURER": "OnePlus",
         "MODEL": "LE2101"
     },
-    "PACKAGES_F5": [
+    "PACKAGES_ROG": [
         "com.mobile.legends",
         "com.dts.freefireth",
         "com.dts.freefirethmax"
     ],
-    "PACKAGES_F5_DEVICE": {
-        "BRAND": "POCO",
-        "DEVICE": "POCO F5",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "23049PCD8G"
+    "PACKAGES_ROG_DEVICE": {
+        "BRAND": "Asus",
+        "DEVICE": "ROG Phone",
+        "MANUFACTURER": "Asus",
+        "MODEL": "ASUS_Z01QD"
     },
     "PACKAGES_ROG6": [
         "com.ea.gp.fifamobile",
