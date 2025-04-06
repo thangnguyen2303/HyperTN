@@ -1,0 +1,135 @@
+{
+  "devices": {
+    "Generic": {
+      "TYPE": "user",
+      "TAGS": " release-keys"
+    },
+    "RecentPixel": {
+      "BRAND": "google",
+      "BOARD": "komodo",
+      "MANUFACTURER": "Google",
+      "DEVICE": "komodo",
+      "PRODUCT": "komodo",
+      "HARDWARE": "komodo",
+      "MODEL": "Pixel 9 Pro XL",
+      "ID": "AP4A.250205.002",
+      "FINGERPRINT": "google/komodo/komodo:15/AP4A.250205.002/12821496:user/release-keys"
+    },
+    "PixelTablet": {
+      "BRAND": "google",
+      "BOARD": "tangorpro",
+      "MANUFACTURER": "Google",
+      "DEVICE": "tangorpro",
+      "PRODUCT": "tangorpro",
+      "HARDWARE": "tangorpro",
+      "MODEL": "Pixel Tablet",
+      "ID": "AP4A.250205.002",
+      "FINGERPRINT": "google/tangorpro/tangorpro:15/AP4A.250205.002/12821496:user/release-keys"
+    },
+    "Pixel5a": {
+      "BRAND": "google",
+      "MANUFACTURER": "Google",
+      "DEVICE": "barbet",
+      "PRODUCT": "barbet",
+      "HARDWARE": "barbet",
+      "MODEL": "Pixel 5a",
+      "ID": "AP2A.240805.005.S4",
+      "FINGERPRINT": "google/barbet/barbet:14/AP2A.240805.005.S4/12281092:user/release-keys"
+    },
+    "PixelXL": {
+      "BRAND": "google",
+      "MANUFACTURER": "Google",
+      "DEVICE": "marlin",
+      "PRODUCT": "marlin",
+      "HARDWARE": "marlin",
+      "ID": "QP1A.191005.007.A3",
+      "MODEL": "Pixel XL",
+      "FINGERPRINT": "google/marlin/marlin:10/QP1A.191005.007.A3/5972272:user/release-keys"
+    },
+    "Meizu": {
+      "BRAND": "meizu",
+      "MANUFACTURER": "Meizu",
+      "DEVICE": "m1892",
+      "DISPLAY": "Flyme",
+      "PRODUCT": "meizu_16thPlus_CN",
+      "MODEL": "meizu 16th Plus"
+    },
+    "S24U": {
+      "MANUFACTURER": "samsung",
+      "MODEL": "SM-S928B"
+    },
+    "TabS10U": {
+      "MANUFACTURER": "samsung",
+      "MODEL": "SM-X926B"
+    }
+  },
+  "packageGroups": {
+    "RecentPixel": [
+      "com.amazon.avod.thirdpartyclient",
+      "com.android.chrome",
+      "com.breel.wallpapers20",
+      "com.disney.disneyplus",
+      "com.google.android.aicore",
+      "com.google.android.apps.accessibility.magnifier",
+      "com.google.android.apps.aiwallpapers",
+      "com.google.android.apps.bard",
+      "com.google.android.apps.customization.pixel",
+      "com.google.android.apps.emojiwallpaper",
+      "com.google.android.apps.nexuslauncher",
+      "com.google.android.apps.pixel.agent",
+      "com.google.android.apps.pixel.creativeassistant",
+      "com.google.android.apps.pixel.support",
+      "com.google.android.apps.privacy.wildlife",
+      "com.google.android.apps.subscriptions.red",
+      "com.google.android.apps.wallpaper",
+      "com.google.android.apps.wallpaper.pixel",
+      "com.google.android.apps.weather",
+      "com.google.android.soundpicker",
+      "com.google.android.wallpaper.effects",
+      "com.google.pixel.livewallpaper",
+      "com.microsoft.android.smsorganizer",
+      "com.nhs.online.nhsonline",
+      "com.nothing.smartcenter",
+      "com.realme.link",
+      "in.startv.hotstar",
+      "jp.id_credit_sp2.android"
+    ],
+    "Meizu": [
+      "cmccwm.mobilemusic",
+      "cn.kuwo.player",
+      "com.hihonor.cloudmusic",
+      "com.kugou.android.lite",
+      "com.kugou.android",
+      "com.meizu.media.music",
+      "com.netease.cloudmusic",
+      "com.tencent.qqmusic"
+    ],
+    "CustomGoogleCamera": [
+      "com.google.android.MTCL83",
+      "com.google.android.UltraCVM",
+      "com.google.android.apps.cameralite"
+    ],
+    "TFT": [
+      "com.riotgames.league.teamfighttacticsvn",
+      "com.riotgames.league.teamfighttactics",
+      "com.riotgames.league.teamfighttacticstw"
+    ]
+  },
+  "propsToKeep": {
+    "com.google.android.settings.intelligence": ["FINGERPRINT"]
+  },
+  "gmsProps": {
+    "BRAND": "google",
+    "DEVICE": "komodo",
+    "DEVICE_INITIAL_SDK_INT": "34",
+    "FINGERPRINT": "google/komodo/komodo:15/AP4A.250205.002/12821496:user/release-keys",
+    "ID": "AP4A.250205.002",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 9 Pro XL",
+    "PRODUCT": "komodo",
+    "RELEASE": "15",
+    "SECURITY_PATCH": "2025-04-01",
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  }
+}
