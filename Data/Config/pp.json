@@ -1,7 +1,6 @@
 {
-  "version": 20250408
+  "version": "20250408"
   "gmsProps": {
-    "VERSION": "20250328",
     "TYPE": "user",
     "TAGS": " release-keys",
     "ID": "BP22.250221.010",
