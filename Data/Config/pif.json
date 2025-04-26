@@ -1,16 +1,15 @@
 {
-  "VERSION": "20250328",
   "TYPE": "user",
   "TAGS": "release-keys",
-  "ID": "BP22.250221.010",
+  "ID": "BP22.250325.007",
   "BRAND": "google",
-  "DEVICE": "oriole",
-  "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250221.010/13193326:user/release-keys",
+  "DEVICE": "cheetah",
+  "FINGERPRINT": "google/cheetah_beta/cheetah:16/BP22.250325.007/13352765:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 6",
-  "PRODUCT": "oriole_beta",
+  "MODEL": "Pixel 7 Pro",
+  "PRODUCT": "cheetah_beta",
   "RELEASE": "16",
-  "SECURITY_PATCH": "2025-03-05",
+  "SECURITY_PATCH": "2025-04-05",
   "DEVICE_INITIAL_SDK_INT": 21,
   "DEBUG": false
 }
