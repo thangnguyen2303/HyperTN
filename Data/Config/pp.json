@@ -12,7 +12,6 @@
   "RELEASE": "16",
   "SECURITY_PATCH": "2025-04-05",
   "DEVICE_INITIAL_SDK_INT": 21,
-  "DEBUG": false
 },
   "RecentPixel": {
     "BRAND": "google",
