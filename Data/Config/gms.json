@@ -21,8 +21,8 @@
     "PRODUCT": "komodo",
     "HARDWARE": "komodo",
     "MODEL": "Pixel 9 Pro XL",
-    "ID": "AP4A.250205.002",
-    "FINGERPRINT": "google/komodo/komodo:15/AP4A.250205.002/12821496:user/release-keys"
+    "ID": "BP1A.250505.005",
+    "FINGERPRINT": "google/komodo/komodo:15/BP1A.250505.005/13277524:user/release-keys"
   },
   "PixelTablet": {
     "BRAND": "google",
@@ -32,7 +32,7 @@
     "PRODUCT": "tangorpro",
     "HARDWARE": "tangorpro",
     "MODEL": "Pixel Tablet",
-    "ID": "AP4A.250205.002",
-    "FINGERPRINT": "google/tangorpro/tangorpro:15/AP4A.250205.002/12821496:user/release-keys"
+    "ID": "BP1A.250505.005",
+    "FINGERPRINT": "google/tangorpro/tangorpro:15/BP1A.250505.005/13277524:user/release-keys"
   }
 }
