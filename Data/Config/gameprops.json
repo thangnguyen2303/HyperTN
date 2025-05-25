@@ -37,6 +37,15 @@
         "MANUFACTURER": "Xiaomi",
         "MODEL": "2SM-X706B"
     },
+    "PACKAGES_Mi15U": [
+        "com.garena.game.kgvn"
+    ],
+    "PACKAGES_Mi15U_DEVICE": {
+        "BRAND": "Xiaomi",
+        "DEVICE": "",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "25010PN30G"
+    },
     "PACKAGES_MI11TP": [
         "com.ea.gp.apexlegendsmobilefps",
         "com.levelinfinite.hotta.gp",
