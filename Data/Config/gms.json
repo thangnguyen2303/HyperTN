@@ -11,8 +11,7 @@
     "PRODUCT": "cheetah_beta",
     "RELEASE": "16",
     "SECURITY_PATCH": "2025-04-05",
-    "DEVICE_INITIAL_SDK_INT": 21,
-    "SDK_INT": 32
+    "DEVICE_INITIAL_SDK_INT": 21
 },
   "RecentPixel": {
     "BRAND": "google",
