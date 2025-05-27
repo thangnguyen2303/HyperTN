@@ -7,6 +7,7 @@
     "DEVICE": "cheetah",
     "FINGERPRINT": "google/cheetah_beta/cheetah:16/BP31.250502.008/13497110:user/release-keys",
     "MANUFACTURER": "Google",
+    "INCREMENTAL": "13497110",
     "MODEL": "Pixel 7 Pro",
     "PRODUCT": "cheetah_beta",
     "RELEASE": "16",
