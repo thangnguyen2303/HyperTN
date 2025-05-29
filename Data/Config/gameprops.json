@@ -28,6 +28,15 @@
         "MANUFACTURER":"ZTE",
         "MODEL":"NX769J"
     },
+    "PACKAGES_Mi15U": [
+        "com.garena.game.kgvn"
+    ],
+    "PACKAGES_Mi15U_DEVICE": {
+        "BRAND": "Xiaomi",
+        "DEVICE": "",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "25010PN30G"
+    },
     "PACKAGES_BS4": [
         "com.proximabeta.mf.uamo"
     ],
