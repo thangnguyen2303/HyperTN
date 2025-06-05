@@ -1,10 +1,4 @@
 {
-    "PACKAGES_VERSION_DEVICE": {
-        "VERSION":"TN"
-    },
-    "PACKAGES_VERSION": [
-        "com.tn.gameprops"
-    ],
     "PACKAGES_M11":[
         "com.mobilelegends.mi",
         "com.netease.newspike",
