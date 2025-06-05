@@ -17,19 +17,19 @@
         "com.blitzteam.battleprime"
     ],
     "PACKAGES_M11_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND":"",
+        "DEVICE":"",
+        "MANUFACTURER":"ZTE",
+        "MODEL":"NX769J"
     },
     "PACKAGES_BS4": [
         "com.proximabeta.mf.uamo"
     ],
     "PACKAGES_BS4_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "Black Shark",
+        "DEVICE": "Black Shark 4",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "2SM-X706B"
     },
     "PACKAGES_MI11TP": [
         "com.ea.gp.apexlegendsmobilefps",
@@ -39,20 +39,20 @@
         "com.vng.mlbbvn"
     ],
     "PACKAGES_MI11TP_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "Xiaomi",
+        "DEVICE": "Mi 11T PRO",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "2107113SI"
     },
     "PACKAGES_MI13P": [
         "com.levelinfinite.sgameGlobal",
         "com.tencent.tmgp.sgame"
     ],
     "PACKAGES_MI13P_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "Xiaomi",
+        "DEVICE": "Mi 13 PRO",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "2210132C"
     },
     "PACKAGES_OP8P": [
         "com.netease.lztgglobal",
@@ -61,10 +61,10 @@
         "com.riotgames.league.wildriftvn"
     ],
     "PACKAGES_OP8P_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "OnePlus",
+        "DEVICE": "OnePlus 8 PRO",
+        "MANUFACTURER": "OnePlus",
+        "MODEL": "IN2020"
     },
     "PACKAGES_OP9P": [
         "com.epicgames.fortnite",
@@ -72,10 +72,10 @@
         "com.tencent.lolm"
     ],
     "PACKAGES_OP9P_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "OnePlus",
+        "DEVICE": "OnePlus 9 PRO",
+        "MANUFACTURER": "OnePlus",
+        "MODEL": "LE2101"
     },
     "PACKAGES_ROG": [
         "com.mobile.legends",
@@ -83,10 +83,10 @@
         "com.dts.freefirethmax"
     ],
     "PACKAGES_ROG_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "Asus",
+        "DEVICE": "ROG Phone",
+        "MANUFACTURER": "Asus",
+        "MODEL": "ASUS_Z01QD"
     },
     "PACKAGES_ROG6": [
         "com.ea.gp.fifamobile",
@@ -96,12 +96,12 @@
         "com.pearlabyss.blackdesertm.gl"
     ],
     "PACKAGES_ROG6_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "BRAND": "Asus",
+        "DEVICE": "ROG Phone 6",
+        "MANUFACTURER": "Asus",
+        "MODEL": "ASUS_AI2201"
     },
-    "PACKAGES_S24U": [
+    "PACKAGES_PadS": [
         "com.blizzard.diablo.immortal",
         "com.pubg.imobile",
         "com.pubg.krmobile",
@@ -110,7 +110,7 @@
         "com.tencent.tmgp.pubgmhd",
         "com.vng.pubgmobile"
     ],
-    "PACKAGES_S24U_DEVICE": {
+    "PACKAGES_PadS_DEVICE": {
         "BRAND": "",
         "DEVICE": "",
         "MANUFACTURER": "samsung",
@@ -125,7 +125,7 @@
     "PACKAGES_LenovoY700_DEVICE": {
         "BRAND": "",
         "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-X916B"
+        "MANUFACTURER": "Lenovo TB-9707F",
+        "MODEL": "Lenovo"
     }
 }
