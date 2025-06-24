@@ -40,8 +40,8 @@
         "com.vng.mlbbvn"
     ],
     "PACKAGES_MI11TP_DEVICE": {
-        "BRAND": "Xiaomi",
-        "DEVICE": "Mi 11T PRO",
+        "BRAND": "",
+        "DEVICE": "",
         "MANUFACTURER": "Xiaomi",
         "MODEL": "2107113SI"
     },
@@ -51,7 +51,7 @@
     ],
     "PACKAGES_MI13P_DEVICE": {
         "BRAND": "Xiaomi",
-        "DEVICE": "Mi 13 PRO",
+        "DEVICE": "",
         "MANUFACTURER": "Xiaomi",
         "MODEL": "2210132C"
     },
@@ -59,11 +59,14 @@
         "com.netease.lztgglobal",
         "com.riotgames.league.wildrift",
         "com.riotgames.league.wildrifttw",
-        "com.riotgames.league.wildriftvn"
+        "com.riotgames.league.wildriftvn",
+        "com.riotgames.league.teamfighttactics",
+        "com.riotgames.league.teamfighttacticstw",
+        "com.riotgames.league.teamfighttacticsvn"
     ],
     "PACKAGES_OP8P_DEVICE": {
-        "BRAND": "OnePlus",
-        "DEVICE": "OnePlus 8 PRO",
+        "BRAND": "",
+        "DEVICE": "",
         "MANUFACTURER": "OnePlus",
         "MODEL": "IN2020"
     },
@@ -73,15 +76,16 @@
         "com.tencent.lolm"
     ],
     "PACKAGES_OP9P_DEVICE": {
-        "BRAND": "OnePlus",
-        "DEVICE": "OnePlus 9 PRO",
+        "BRAND": "",
+        "DEVICE": "",
         "MANUFACTURER": "OnePlus",
         "MODEL": "LE2101"
     },
     "PACKAGES_ROG": [
         "com.mobile.legends",
         "com.dts.freefireth",
-        "com.dts.freefirethmax"
+        "com.dts.freefirethmax",
+        "com.dts.freefiremax"
     ],
     "PACKAGES_ROG_DEVICE": {
         "BRAND": "Asus",
@@ -98,9 +102,18 @@
     ],
     "PACKAGES_ROG6_DEVICE": {
         "BRAND": "Asus",
-        "DEVICE": "ROG Phone 6",
+        "DEVICE": "AI2201",
         "MANUFACTURER": "Asus",
         "MODEL": "ASUS_AI2201"
+    },
+    "PACKAGES_ROG6D": [
+        "com.proxima.dfm"
+    ],
+    "PACKAGES_ROG6D_DEVICE": {
+        "BRAND": "Asus",
+        "DEVICE": "AI2203_C",
+        "MANUFACTURER": "Asus",
+        "MODEL": "ASUS_AI2203_C"
     },
     "PACKAGES_S24U": [
         "com.blizzard.diablo.immortal",
