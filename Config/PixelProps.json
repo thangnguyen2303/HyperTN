@@ -3,16 +3,16 @@
   "gmsProps": {
     "TYPE": "user",
     "TAGS": "release-keys",
-    "ID": "BP31.250502.008",
+    "ID": "BP31.250523.010",
     "BRAND": "google",
-    "DEVICE": "komodo",
-    "FINGERPRINT": "google/komodo_beta/komodo:16/BP31.250502.008/13497110:user/release-keys",
+    "DEVICE": "panther",
+    "FINGERPRINT": "google/panther_beta/panther:16/BP31.250523.010/13667654:user/release-keys",
     "MANUFACTURER": "Google",
     "INCREMENTAL": "13497110",
-    "MODEL": "Pixel 9 Pro XL",
-    "PRODUCT": "komodo_beta",
+    "MODEL": "Pixel 7",
+    "PRODUCT": "panther_beta",
     "RELEASE": "16",
-    "SECURITY_PATCH": "2025-05-05",
+    "SECURITY_PATCH": "2025-06-05",
     "DEVICE_INITIAL_SDK_INT": 25
 },
   "RecentPixel": {
