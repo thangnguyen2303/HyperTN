@@ -82,10 +82,7 @@
         "MODEL": "LE2101"
     },
     "PACKAGES_ROG": [
-        "com.mobile.legends",
-        "com.dts.freefireth",
-        "com.dts.freefirethmax",
-        "com.dts.freefiremax"
+        "com.mobile.legends"
     ],
     "PACKAGES_ROG_DEVICE": {
         "BRAND": "Asus",
@@ -141,5 +138,16 @@
         "DEVICE": "",
         "MANUFACTURER": "Lenovo TB-9707F",
         "MODEL": "Lenovo"
+    },
+    "PACKAGES_REALME": [
+        "com.dts.freefireth",
+        "com.dts.freefirethmax",
+        "com.dts.freefiremax"
+    ],
+    "PACKAGES_REALME_DEVICE": {
+        "BRAND": "realme",
+        "DEVICE": "",
+        "MANUFACTURER": "realme",
+        "MODEL": "RMX5070"
     }
 }
