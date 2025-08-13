@@ -1,5 +1,5 @@
 {
-    "Version": "20250625",
+    "Version": "20250813",
     "PACKAGES_M11": [
         "com.mobilelegends.mi",
         "com.netease.newspike",
@@ -141,5 +141,22 @@
         "DEVICE": "",
         "MANUFACTURER": "Lenovo TB-9707F",
         "MODEL": "Lenovo"
+       },
+	"PACKAGES_REALME_15PRO": [
+        "com.garena.game.kgvn",
+        "com.garena.game.kgid",
+        "com.garena.game.kgth",
+        "com.ngame.allstar.eu",
+        "com.tencent.ngame.chty",
+        "com.tencent.ngjp",
+        "com.clashoftitansandroid.india",
+        "com.garena.game.kgvj",
+        "com.garena.game.kgvntest"
+    ],
+    "PACKAGES_REALME_15PRO_DEVICE": {
+        "BRAND": "realme",
+        "DEVICE": "Realme 15 Pro 5G",
+        "MANUFACTURER": "realme",
+        "MODEL": "RMX5101"
     }
 }
