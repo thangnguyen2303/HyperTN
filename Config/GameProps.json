@@ -136,8 +136,8 @@
     "PACKAGES_LenovoY700_DEVICE": {
         "BRAND": "",
         "DEVICE": "",
-        "MANUFACTURER": "Lenovo TB-9707F",
-        "MODEL": "Lenovo"
+        "MANUFACTURER": "Lenovo",
+        "MODEL": "Lenovo TB-9707F"
     },
 	"PACKAGES_REALME_15PRO": [
         "com.garena.game.kgvn",
