@@ -12,7 +12,7 @@
     "S24U": { "BRAND": "samsung", "MODEL": "SM-S928B", "DEVICE": "eureka", "MANUFACTURER": "samsung" },
     "Y700": { "BRAND": "Lenovo", "MODEL": "Lenovo", "DEVICE": "Lenovo TB-9707F", "MANUFACTURER": "Lenovo" },
     "RM15P": { "BRAND": "realme", "MODEL": "RMX5101", "DEVICE": "Realme 15 Pro 5G", "MANUFACTURER": "realme" },
-    "RM14P": {"MODEL": "RMX5070", "MANUFACTURER": "realme" }
+    "RM14": {"MODEL": "RMX5070", "MANUFACTURER": "realme" }
   },
   "GameGroups": {
     "M11": [
