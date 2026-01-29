@@ -13,7 +13,8 @@
     "S24U": { "BRAND": "samsung", "MODEL": "SM-S928B", "DEVICE": "eureka", "MANUFACTURER": "samsung" },
     "Y700": { "BRAND": "Lenovo", "MODEL": "Lenovo", "DEVICE": "Lenovo TB-9707F", "MANUFACTURER": "Lenovo" },
     "RM15P": { "BRAND": "realme", "MODEL": "RMX5101", "DEVICE": "Realme 15 Pro 5G", "MANUFACTURER": "realme" },
-    "PadS": { "BRAND": "", "MODEL": "RMX5101", "DEVICE": "SM-X916B", "MANUFACTURER": "samsung" } 
+    "RM14": {"MODEL": "RMX5070", "MANUFACTURER": "realme" },
+    "PadS": { "BRAND": "", "MODEL": "RMX5101", "DEVICE": "SM-X916B", "MANUFACTURER": "samsung" }
   },
   "GameGroups": {
     "M11": [
@@ -50,11 +51,13 @@
     "Y700": [
       "com.activision.callofduty.shooter", "com.garena.game.codm", "com.tencent.tmgp.kr.codm", "com.vng.codmvn"
     ],
+    "RM14": [
+      "com.dts.freefireth", "com.dts.freefirethmax", "com.dts.freefiremax"
+    ],
     "RM15P": [
       "com.garena.game.kgvn", "com.garena.game.kgid", "com.garena.game.kgth",
       "com.ngame.allstar.eu", "com.tencent.ngame.chty", "com.tencent.ngjp",
-      "com.clashoftitansandroid.india", "com.garena.game.kgvj", "com.garena.game.kgvntest",
-      "com.dts.freefireth", "com.dts.freefirethmax", "com.dts.freefiremax"
+      "com.clashoftitansandroid.india", "com.garena.game.kgvj", "com.garena.game.kgvntest" 
     ]
   }
 }
