@@ -1,20 +1,20 @@
 
 {
   "DeviceProfiles": {
-    "M11": { "BRAND": "ZTE", "MODEL": "NX769J", "DEVICE": "NX769J", "MANUFACTURER": "ZTE" },
+    "M11": { "BRAND": "", "MODEL": "NX769J", "DEVICE": "", "MANUFACTURER": "ZTE" },
     "BS4": { "BRAND": "Black Shark", "MODEL": "2SM-X706B", "DEVICE": "Black Shark 4", "MANUFACTURER": "Xiaomi" },
-    "MI11TP": { "BRAND": "Xiaomi", "MODEL": "2107113SI", "DEVICE": "2107113SI", "MANUFACTURER": "Xiaomi" },
-    "MI13P": { "BRAND": "Xiaomi", "MODEL": "2210132C", "DEVICE": "2210132C", "MANUFACTURER": "Xiaomi" },
-    "OP8P": { "BRAND": "OnePlus", "MODEL": "IN2020", "DEVICE": "IN2020", "MANUFACTURER": "OnePlus" },
-    "OP9P": { "BRAND": "OnePlus", "MODEL": "LE2101", "DEVICE": "LE2101", "MANUFACTURER": "OnePlus" },
+    "MI11TP": { "BRAND": "", "MODEL": "2107113SI", "DEVICE": "", "MANUFACTURER": "Xiaomi" },
+    "MI13P": { "BRAND": "Xiaomi", "MODEL": "2210132C", "DEVICE": "", "MANUFACTURER": "Xiaomi" },
+    "OP8P": { "BRAND": "", "MODEL": "IN2020", "DEVICE": "", "MANUFACTURER": "OnePlus" },
+    "OP9P": { "BRAND": "", "MODEL": "LE2101", "DEVICE": "", "MANUFACTURER": "OnePlus" },
     "ROG": { "BRAND": "Asus", "MODEL": "ASUS_Z01QD", "DEVICE": "ROG Phone", "MANUFACTURER": "Asus" },
     "ROG6": { "BRAND": "Asus", "MODEL": "ASUS_AI2201", "DEVICE": "AI2201", "MANUFACTURER": "Asus" },
     "ROG6D": { "BRAND": "Asus", "MODEL": "ASUS_AI2203_C", "DEVICE": "AI2203_C", "MANUFACTURER": "Asus" },
-    "S24U": { "BRAND": "samsung", "MODEL": "SM-S928B", "DEVICE": "eureka", "MANUFACTURER": "samsung" },
-    "Y700": { "BRAND": "Lenovo", "MODEL": "Lenovo", "DEVICE": "Lenovo TB-9707F", "MANUFACTURER": "Lenovo" },
+    "S24U": { "BRAND": "", "MODEL": "SM-S928B", "DEVICE": "", "MANUFACTURER": "samsung" },
+    "Y700": { "BRAND": "", "MODEL": "Lenovo TB-9707F", "DEVICE": "", "MANUFACTURER": "Lenovo" },
     "RM15P": { "BRAND": "realme", "MODEL": "RMX5101", "DEVICE": "Realme 15 Pro 5G", "MANUFACTURER": "realme" },
-    "RM14": {"MODEL": "RMX5070", "MANUFACTURER": "realme" },
-    "PadS": { "BRAND": "", "MODEL": "RMX5101", "DEVICE": "SM-X916B", "MANUFACTURER": "samsung" }
+    "RM14": {"BRAND": "", "MODEL": "RMX5070", "DEVICE": "", "MANUFACTURER": "realme" }
+    "PadS": { "BRAND": "", "MODEL": "SM-X916B", "DEVICE": "", "MANUFACTURER": "samsung" }
   },
   "GameGroups": {
     "M11": [
