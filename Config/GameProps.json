@@ -1,162 +1,64 @@
 {
-    "Version": "20250813",
-    "PACKAGES_M11": [
-        "com.mobilelegends.mi",
-        "com.netease.newspike",
-        "com.activision.callofduty.warzone",
-        "com.pubg.newstate",
-        "com.gamedevltd.destinywarfare",
-        "com.pikpok.dr2.play",
-        "com.CarXTech.highWay",
-        "com.nekki.shadowfight3",
-        "com.nekki.shadowfightarena",
-        "com.gameloft.android.ANMP.GloftA8HM",
-        "com.nekki.shadowfight",
-        "com.ea.game.nfs14_row",
-        "com.ea.games.r3_row",
-        "com.supercell.squad",
-        "com.blitzteam.battleprime"
+  "DeviceProfiles": {
+    "M11": { "BRAND": "", "MODEL": "NX769J", "DEVICE": "", "MANUFACTURER": "ZTE" },
+    "BS4": { "BRAND": "Black Shark", "MODEL": "2SM-X706B", "DEVICE": "Black Shark 4", "MANUFACTURER": "Xiaomi" },
+    "MI11TP": { "BRAND": "", "MODEL": "2107113SI", "DEVICE": "", "MANUFACTURER": "Xiaomi" },
+    "MI13P": { "BRAND": "Xiaomi", "MODEL": "2210132C", "DEVICE": "", "MANUFACTURER": "Xiaomi" },
+    "OP8P": { "BRAND": "", "MODEL": "IN2020", "DEVICE": "", "MANUFACTURER": "OnePlus" },
+    "OP9P": { "BRAND": "", "MODEL": "LE2101", "DEVICE": "", "MANUFACTURER": "OnePlus" },
+    "ROG": { "BRAND": "Asus", "MODEL": "ASUS_Z01QD", "DEVICE": "ROG Phone", "MANUFACTURER": "Asus" },
+    "ROG6": { "BRAND": "Asus", "MODEL": "ASUS_AI2201", "DEVICE": "AI2201", "MANUFACTURER": "Asus" },
+    "ROG6D": { "BRAND": "Asus", "MODEL": "ASUS_AI2203_C", "DEVICE": "AI2203_C", "MANUFACTURER": "Asus" },
+    "S24U": { "BRAND": "", "MODEL": "SM-S928B", "DEVICE": "", "MANUFACTURER": "samsung" },
+    "Y700": { "BRAND": "", "MODEL": "Lenovo TB-9707F", "DEVICE": "", "MANUFACTURER": "Lenovo" },
+    "RM15P": { "BRAND": "realme", "MODEL": "RMX5101", "DEVICE": "Realme 15 Pro 5G", "MANUFACTURER": "realme" },
+    "PLK110": { "BRAND": "", "MODEL": "PLK110", "DEVICE": "", "MANUFACTURER": "OnePlus" },
+    "RM14": {"BRAND": "", "MODEL": "RMX5070", "DEVICE": "", "MANUFACTURER": "realme" }
+  },
+  "GameGroups": {
+    "M11": [
+      "com.mobilelegends.mi", "com.netease.newspike", "com.activision.callofduty.warzone",
+      "com.pubg.newstate", "com.gamedevltd.destinywarfare", "com.pikpok.dr2.play",
+      "com.CarXTech.highWay", "com.nekki.shadowfight3", "com.nekki.shadowfightarena",
+      "com.gameloft.android.ANMP.GloftA8HM", "com.nekki.shadowfight", "com.ea.game.nfs14_row",
+      "com.ea.games.r3_row", "com.supercell.squad", "com.blitzteam.battleprime"
     ],
-    "PACKAGES_M11_DEVICE": {
-        "BRAND":"",
-        "DEVICE":"",
-        "MANUFACTURER":"ZTE",
-        "MODEL":"NX769J"
-    },
-    "PACKAGES_BS4": [
-        "com.proximabeta.mf.uamo"
+    "PLK110": [ "com.riotgames.league.teamfighttacticsvn", "com.riotgames.league.teamfighttactics" ],
+    "BS4": [ "com.proximabeta.mf.uamo" ],
+    "MI11TP": [
+      "com.ea.gp.apexlegendsmobilefps", "com.levelinfinite.hotta.gp", "com.supercell.brawlstars",
+      "com.supercell.clashofclans", "com.vng.mlbbvn"
     ],
-    "PACKAGES_BS4_DEVICE": {
-        "BRAND": "Black Shark",
-        "DEVICE": "Black Shark 4",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "2SM-X706B"
-    },
-    "PACKAGES_MI11TP": [
-        "com.ea.gp.apexlegendsmobilefps",
-        "com.levelinfinite.hotta.gp",
-        "com.supercell.brawlstars",
-        "com.supercell.clashofclans",
-        "com.vng.mlbbvn"
+    "MI13P": [ "com.levelinfinite.sgameGlobal", "com.tencent.tmgp.sgame" ],
+    "OP8P": [
+      "com.netease.lztgglobal", "com.riotgames.league.wildrift", "com.riotgames.league.wildrifttw",
+      "com.riotgames.league.wildriftvn", "com.riotgames.league.teamfighttactics",
+      "com.riotgames.league.teamfighttacticstw", "com.riotgames.league.teamfighttacticsvn"
     ],
-    "PACKAGES_MI11TP_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "2107113SI"
-    },
-    "PACKAGES_MI13P": [
-        "com.levelinfinite.sgameGlobal",
-        "com.tencent.tmgp.sgame"
+    "OP9P": [
+      "com.epicgames.fortnite", "com.epicgames.portal", "com.oplus.consumerIRApp", "com.tencent.lolm"
     ],
-    "PACKAGES_MI13P_DEVICE": {
-        "BRAND": "Xiaomi",
-        "DEVICE": "",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "2210132C"
-    },
-    "PACKAGES_OP8P": [
-        "com.netease.lztgglobal",
-        "com.riotgames.league.wildrift",
-        "com.riotgames.league.wildrifttw",
-        "com.riotgames.league.wildriftvn",
-        "com.riotgames.league.teamfighttactics",
-        "com.riotgames.league.teamfighttacticstw",
-        "com.riotgames.league.teamfighttacticsvn"
+    "ROG": [ "com.mobile.legends" ],
+    "ROG6": [
+      "com.ea.gp.fifamobile", "com.gameloft.android.ANMP.GloftA9HM", "com.madfingergames.legends",
+      "com.pearlabyss.blackdesertm", "com.pearlabyss.blackdesertm.gl"
     ],
-    "PACKAGES_OP8P_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "OnePlus",
-        "MODEL": "IN2020"
-    },
-    "PACKAGES_OP9P": [
-        "com.epicgames.fortnite",
-        "com.epicgames.portal",
-        "com.tencent.lolm"
+    "ROG6D": [ "com.proxima.dfm" ],
+    "S24U": [
+      "com.blizzard.diablo.immortal", "com.pubg.imobile", "com.pubg.krmobile",
+      "com.rekoo.pubgm", "com.tencent.ig", "com.tencent.tmgp.pubgmhd", "com.vng.pubgmobile"
     ],
-    "PACKAGES_OP9P_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "OnePlus",
-        "MODEL": "LE2101"
-    },
-    "PACKAGES_ROG": [
-        "com.mobile.legends"
+    "Y700": [
+      "com.activision.callofduty.shooter", "com.garena.game.codm", "com.tencent.tmgp.kr.codm", "com.vng.codmvn"
     ],
-    "PACKAGES_ROG_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "ROG Phone",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_Z01QD"
-    },
-    "PACKAGES_ROG6": [
-        "com.ea.gp.fifamobile",
-        "com.gameloft.android.ANMP.GloftA9HM",
-        "com.madfingergames.legends",
-        "com.pearlabyss.blackdesertm",
-        "com.pearlabyss.blackdesertm.gl"
+    "RM15P": [
+      "com.garena.game.kgvn", "com.garena.game.kgid", "com.garena.game.kgth",
+      "com.ngame.allstar.eu", "com.tencent.ngame.chty", "com.tencent.ngjp",
+      "com.clashoftitansandroid.india", "com.garena.game.kgvj", "com.garena.game.kgvntest",
+      "com.dts.freefireth", "com.dts.freefirethmax", "com.dts.freefiremax"
     ],
-    "PACKAGES_ROG6_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "AI2201",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_AI2201"
-    },
-    "PACKAGES_ROG6D": [
-        "com.proxima.dfm"
-    ],
-    "PACKAGES_ROG6D_DEVICE": {
-        "BRAND": "Asus",
-        "DEVICE": "AI2203_C",
-        "MANUFACTURER": "Asus",
-        "MODEL": "ASUS_AI2203_C"
-    },
-    "PACKAGES_S24U": [
-        "com.blizzard.diablo.immortal",
-        "com.pubg.imobile",
-        "com.pubg.krmobile",
-        "com.rekoo.pubgm",
-        "com.tencent.ig",
-        "com.tencent.tmgp.pubgmhd",
-        "com.vng.pubgmobile"
-    ],
-    "PACKAGES_S24U_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "samsung",
-        "MODEL": "SM-S928B"
-    },
-    "PACKAGES_LenovoY700": [
-        "com.activision.callofduty.shooter",
-        "com.garena.game.codm",
-        "com.tencent.tmgp.kr.codm",
-        "com.vng.codmvn"
-    ],
-    "PACKAGES_LenovoY700_DEVICE": {
-        "BRAND": "",
-        "DEVICE": "",
-        "MANUFACTURER": "Lenovo",
-        "MODEL": "Lenovo TB-9707F"
-    },
-	"PACKAGES_REALME_15PRO": [
-        "com.garena.game.kgvn",
-        "com.garena.game.kgid",
-        "com.garena.game.kgth",
-        "com.ngame.allstar.eu",
-        "com.tencent.ngame.chty",
-        "com.tencent.ngjp",
-        "com.clashoftitansandroid.india",
-        "com.garena.game.kgvj",
-        "com.garena.game.kgvntest",
-		"com.dts.freefireth",
-        "com.dts.freefirethmax",
-        "com.dts.freefiremax"
-    ],
-    "PACKAGES_REALME_15PRO_DEVICE": {
-        "BRAND": "realme",
-        "DEVICE": "Realme 15 Pro 5G",
-        "MANUFACTURER": "realme",
-        "MODEL": "RMX5101"
-    }
+    "RM14": [
+      "com.dts.freefireth", "com.dts.freefirethmax", "com.dts.freefiremax"
+    ] 
+  }
 }
